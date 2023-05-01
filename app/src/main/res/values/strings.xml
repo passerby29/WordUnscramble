@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WordUnsramble</string>
+    <string name="app_name">WordUnscramble</string>
+    <string name="city_number">%s of %s</string>
+    <string name="score">SCORE: %s</string>
+    <string name="best">BEST: %s</string>
+    <string name="time">TIME: %s</string>
+    <string name="no_selected_letters">No selected letters!</string>
 </resources>
